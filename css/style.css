@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Oswald:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+  background-color:#0A090C;
+}
+
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+p{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	font-size: 50px;
+}
+
+.foot{
+  font-size: 15px;
+  color: white;
+}
